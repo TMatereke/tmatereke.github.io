@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "CommonGround Community Asset Watch",
+  "short_name": "CommonGround",
+  "description": "Report community property that needs attention and keep track of local follow-up.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f7f3",
+  "theme_color": "#153f3b",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
